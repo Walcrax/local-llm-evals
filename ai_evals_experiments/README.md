@@ -1,4 +1,4 @@
-Repozytorium pełni rolę mojego notatnika laboratoryjnego z nauki podstaw ewaluacji modeli językowych (LLM) oraz poznawania narzędzia **UK AISI `inspect_ai`**.
+Repozytorium pełni rolę mojego notatnika do nauki podstaw ewaluacji modeli językowych (LLM) oraz poznawania narzędzia **UK AISI `inspect_ai`**.
 
 **Nota dotycząca kodu:** 
 Szkielety skryptów w Pythonie zostały przygotowane przy wsparciu AI jako materiał szkoleniowy. 
